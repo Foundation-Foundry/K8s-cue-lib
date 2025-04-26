@@ -1,0 +1,1 @@
+module: "github.com/foundation-foundry/k8s-cue-lib"
