@@ -1,4 +1,3 @@
-// k8s/base.cue
 package k8s
 
 import (

@@ -1,4 +1,3 @@
-// k8s/webserver.cue
 package k8s
 
 import (

@@ -1,4 +1,3 @@
-// k8s/frontend.cue
 package k8s
 
 import (

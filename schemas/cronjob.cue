@@ -1,4 +1,3 @@
-// k8s/cronjob.cue
 package k8s
 
 import (

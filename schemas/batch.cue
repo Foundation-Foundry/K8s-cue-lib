@@ -1,4 +1,3 @@
-// k8s/batch.cue
 package k8s
 
 import (

@@ -1,4 +1,3 @@
-// k8s/stateful.cue
 package k8s
 
 import (
